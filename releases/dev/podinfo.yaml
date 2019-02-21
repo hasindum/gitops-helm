@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: hazzindu/podinfo:dev-qplbwoo1
+    image: hazzindu/podinfo:dev-aq7czce2
     replicaCount: 1
     hpa:
       enabled: false
